@@ -29,7 +29,7 @@ In the fall I start work in a [Department of Aerospace Engineering](https://aero
 
 ### My Interests 👨‍💻️
 
-On the technical side of things I'm interested in application development, algorithms, embedded systems, and all things data (machine learning, computer vision, NLP, whatever).
+On the technical side of things I'm interested in application development, algorithms, embedded systems, and all things data.
 
 I'm also interested in entrepreneurship, probability, the life sciences (especially neuroscience), philosophy, psychology and reading in general. I'm an avid runner and I'm currently training for a marathon. I enjoy playing poker and chess. 
 
