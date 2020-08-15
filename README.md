@@ -23,7 +23,7 @@ I've worked as a full-stack developer, a researcher in data science labs, and a 
 
 ### What I'm Working On 🔭
 
-I'm currently working to gain a holistic and thorough understanding of data science. I'm also learning as much as I can about the design and analysis of algorithms. 
+I'm currently working to gain a thorough understanding of data science. I'm also learning as much as I can about the design and analysis of algorithms. 
 
 In the fall I start work in a [Department of Aerospace Engineering](https://aero.umd.edu/) lab where I'll be building this really interesting computer vision application. I can't talk too much about the details at the moment but I'm excited about it.
 
