@@ -35,4 +35,4 @@ I'm also interested in entrepreneurship, probability, the life sciences (especia
 
 ### Get in Touch! 💬 
 
-I always enjoy meeting people. Feel free to drop me a line at pfeeney@terpmail.umd.edu or connect with me on [LinkedIn](www.linkedin.com/in/peter-feeney).
+Feel free to drop me a line at pfeeney@terpmail.umd.edu or connect with me on [LinkedIn](www.linkedin.com/in/peter-feeney).
