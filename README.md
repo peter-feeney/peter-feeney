@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### About Me 🏃
+## About Me 🏃
 
 I'm an undergraduate student at the University of Maryland. I'm majoring in computer science and finance. I've earned an honors citation from the [Entrepreneurship and Innovation Program](http://eip.umd.edu/) and am currently working towards a specialization in data science.
 
